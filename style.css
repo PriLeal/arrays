@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;  
+}
+
+body{
+    padding: 30px;
+    background: linear-gradient(72deg, rgb(189, 242, 187)  1%,  rgb(246, 190, 48) 99%);
+}
+
+h1{
+    padding: 20px;
+    position: relative;
+    left: 30%;
+}
+
+h2{
+    padding: 20px;
+    position: relative;
+    left: 22%;
+}
+
+label{
+    position: relative;
+    left: 170px;
+}
+
+button{
+    padding: 10px;
+    border: 10px;
+    border-style:dotted;
+    border-color: rgb(2, 76, 34);
+    background-color: rgb(2, 76,34);
+    color: rgb(245, 241, 237);
+    font-size: 15px;
+    border-radius: 50px;
+    position: relative;
+    left:20%
+}
+
+#resultado{
+    padding: 5px;
+    height: 30px;
+    width: 500px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    left: 22%;
+}
+
+#inputText{
+    position: relative;
+    left: 180px;
+
+}
+
